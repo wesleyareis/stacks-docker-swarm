@@ -7,12 +7,12 @@ Aqui você vai encontrar todas minhas stacks com Traefik em ambiente Docker Swar
 
 ### Nome da stack:
 
-```
+```bash
 evolution-api
 ```
 ### Conteúdo do arquivo docker swarm:
 
-```
+```bash
 version: "3.7"
 
 services:
